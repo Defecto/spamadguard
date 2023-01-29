@@ -1,0 +1,8 @@
+
+0.0.0.0 taghaugh.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 hannahdrovebible.com
+0.0.0.0 purpleads.io
+0.0.0.0 financeritual.com
+0.0.0.0 upgulpinon.com
+0.0.0.0 actualidad.es
