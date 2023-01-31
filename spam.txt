@@ -6,3 +6,8 @@
 0.0.0.0 financeritual.com
 0.0.0.0 upgulpinon.com
 0.0.0.0 actualidad.es
+0.0.0.0 tsyndicate.com
+0.0.0.0 criteo.com
+0.0.0.0 financeritual.com
+0.0.0.0 onmarshtompor.com
+0.0.0.0 smartanswers.net
