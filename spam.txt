@@ -11,3 +11,11 @@
 0.0.0.0 financeritual.com
 0.0.0.0 onmarshtompor.com
 0.0.0.0 smartanswers.net
+0.0.0.0 pocpoc.io
+0.0.0.0 for-j.com
+0.0.0.0 is-a-bruinsfan.org
+0.0.0.0 filetosend-upload.net
+0.0.0.0 zunsoach.com
+0.0.0.0 dudialgator.com
+0.0.0.0 myrrhisunition.store
+0.0.0.0 tradedoubler.com
